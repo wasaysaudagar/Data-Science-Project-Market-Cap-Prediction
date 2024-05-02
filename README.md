@@ -37,15 +37,7 @@ The main objectives of this project are:
 4. Explore the dataset, visualizations, and machine learning models.
 5. Feel free to modify the code, experiment with different approaches, or use your own dataset.
 
-## Contributing
-
-Contributions to this project are welcome! If you have any ideas, improvements, or bug fixes, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
-- The dataset used in this project is sourced from [source_name_or_link].
+- The dataset used in this project is sourced from [[source_name_or_link](https://www.kaggle.com/datasets/lamiatabassum/top-50-us-tech-companies-2022-2023-dataset?resource=download)].
 - Special thanks to the open-source community for the amazing Python libraries and resources.
